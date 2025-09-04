@@ -25,3 +25,7 @@ tup = ("something", True, 33)
 # Boolean: True or False values
 correct = True
 incorrect = False
+
+# getting an input from the user
+inp = input('what is your name?')
+print('hello ' , inp)
